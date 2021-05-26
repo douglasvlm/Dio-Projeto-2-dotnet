@@ -1,0 +1,39 @@
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.exe
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.deps.json
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.runtimeconfig.json
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.runtimeconfig.dev.json
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.dll
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.pdb
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.csprojAssemblyReference.cache
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.AssemblyInfoInputs.cache
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.AssemblyInfo.cs
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.csproj.CoreCompileInputs.cache
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.dll
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.pdb
+D:\Google Drive\7 - Git\workspace\Projetos\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.genruntimeconfig.cache
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.exe
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.deps.json
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.runtimeconfig.json
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.runtimeconfig.dev.json
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.dll
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.pdb
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.csprojAssemblyReference.cache
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.AssemblyInfoInputs.cache
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.AssemblyInfo.cs
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.csproj.CoreCompileInputs.cache
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.dll
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.pdb
+C:\Google Drive\7 - Git\Private\workspace\c#\ProjetoAutomoveis v2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.genruntimeconfig.cache
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.exe
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.deps.json
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.runtimeconfig.json
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.runtimeconfig.dev.json
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.dll
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\bin\Debug\netcoreapp3.1\CRUDCar.pdb
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.csprojAssemblyReference.cache
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.AssemblyInfoInputs.cache
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.AssemblyInfo.cs
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.csproj.CoreCompileInputs.cache
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.dll
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.pdb
+C:\Google Drive\7 - Git\Publico\Projeto C# 2\CRUDCar\obj\Debug\netcoreapp3.1\CRUDCar.genruntimeconfig.cache
