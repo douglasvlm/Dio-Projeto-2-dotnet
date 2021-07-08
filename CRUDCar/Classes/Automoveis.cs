@@ -42,7 +42,7 @@ namespace CRUDCar
             retorno += "Tanque " + this.Tanque + " Ltrs " + Environment.NewLine;
             retorno += "Aluguel " + this.Aluguel + " R$/h" + Environment.NewLine;
             if(this.Excluido){
-                retorno += "Status: Insdisponível.";    
+                retorno += "Status: Indisponível.";    
             }else{
                 retorno += "Status: Disponivel.";
             }
