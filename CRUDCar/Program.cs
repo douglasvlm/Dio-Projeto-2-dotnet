@@ -25,10 +25,10 @@ namespace CRUDCar
 					case "4":
 						AlterarStatusExcluido();
 						break;
-                    case "5":
+                  			case "5":
 						VisualizarAutmovel();
 						break;    
-				    case "C":
+				    	case "C":
 						Console.Clear();
 						break;
 
@@ -42,7 +42,8 @@ namespace CRUDCar
 			Console.WriteLine("Obrigado por utilizar nossos serviços.");
 			Console.ReadLine();
 		}
-            private static string ObterOpcaoUsuario()
+        
+        private static string ObterOpcaoUsuario()
         {
             Console.WriteLine();
             Console.WriteLine("Sistema de inserção de veículos a seu dispor!!!");
