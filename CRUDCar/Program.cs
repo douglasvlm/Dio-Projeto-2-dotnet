@@ -90,7 +90,7 @@ namespace CRUDCar
 
             foreach (int i in Enum.GetValues(typeof(Grupo)))
             {
-                Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Grupo), i));
+                Console.WriteLine("{0} - {1}", i, Enum.GetName(typeof(Grupo), i));
             }
             Console.Write("Digite o grupo entre as opções acima: ");
             int entradaGrupo = int.Parse(Console.ReadLine());
@@ -99,7 +99,7 @@ namespace CRUDCar
             
             foreach (int i in Enum.GetValues(typeof(Combustivel)))
             {
-                Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Combustivel), i));
+                Console.WriteLine("{0} - {1}", i, Enum.GetName(typeof(Combustivel), i));
             }
             Console.Write("Digite o tipo de combustivel entre as opções acima: ");
             int entradaCombustivel = int.Parse(Console.ReadLine());
@@ -138,14 +138,14 @@ namespace CRUDCar
 
             foreach (int i in Enum.GetValues(typeof(Grupo)))
             {
-                Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Grupo), i));
+                Console.WriteLine("{0} - {1}", i, Enum.GetName(typeof(Grupo), i));
             }
             Console.Write("Digite o grupo entre as opções acima: ");
             int entradaGrupo = int.Parse(Console.ReadLine());
 
             foreach (int i in Enum.GetValues(typeof(Combustivel)))
             {
-                Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Combustivel), i));
+                Console.WriteLine("{0} - {1}", i, Enum.GetName(typeof(Combustivel), i));
             }
             Console.Write("Digite o tipo de combustivel entre as opções acima: ");
             int entradaCombustivel = int.Parse(Console.ReadLine());
